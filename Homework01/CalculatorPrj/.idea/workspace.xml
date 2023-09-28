@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2458cb5c-7c65-425b-a714-b271f91b537b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorView.java" afterDir="false" />
+    <list default="true" id="2458cb5c-7c65-425b-a714-b271f91b537b" name="Default Changelist" comment="CalculatorApp commit">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorPrj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalculatorPrj/CalculatorApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalculatorPrj/CalculatorController$CalculatorControllerKeyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalculatorPrj/CalculatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalculatorPrj/CalculatorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalculatorPrj/CalculatorView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorView.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +81,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695918519723</updated>
-      <workItem from="1695918521193" duration="1120000" />
+      <workItem from="1695918521193" duration="1380000" />
     </task>
+    <task id="LOCAL-00001" summary="CalculatorApp commit">
+      <created>1695919681987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695919681987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CalculatorApp commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalculatorApp commit" />
   </component>
 </project>
