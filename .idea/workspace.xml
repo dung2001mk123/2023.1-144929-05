@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c471984-a62a-485b-824f-67617bc41e35" name="Default Changelist" comment="refactor">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c471984-a62a-485b-824f-67617bc41e35" name="Default Changelist" comment="refactor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
       <workItem from="1695916785022" duration="37000" />
       <workItem from="1695918082098" duration="398000" />
       <workItem from="1695918496865" duration="115000" />
+      <workItem from="1695920300123" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1695918104236</created>
